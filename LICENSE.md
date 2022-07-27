@@ -10,7 +10,7 @@ upon and share such Educational Content subject to the terms of the Educational
 Content License set forth [here](http://learn.co/content-license)
 (http://learn.co/content-license). You must read carefully the terms and
 conditions contained in the Educational Content License as such terms govern
-access to and use of the Educational Content.  
+access to and use of the Educational Content.
 
 Flatiron School is willing to allow you access to and use of the Educational
 Content only on the condition that you accept all of the terms and conditions
